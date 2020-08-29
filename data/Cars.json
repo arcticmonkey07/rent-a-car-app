@@ -1,0 +1,142 @@
+{
+  "cars": [
+    {
+      "id": "01",
+      "title": "Nissan D22 Terrano AX",
+      "imageUrl": "https://funkyimg.com/i/374Au.jpg",
+      "price": 6000
+    },
+    {
+      "id": "02",
+      "title": "Nissan Titan",
+      "imageUrl": "https://funkyimg.com/i/374B1.jpg",
+      "price": 6000
+    },
+    {
+      "id": "03",
+      "title": "Ford F-150",
+      "imageUrl": "https://funkyimg.com/i/374AY.jpg",
+      "price": 8000
+    },
+    {
+      "id": "04",
+      "title": "Chevrolet Silverado",
+      "imageUrl": "https://funkyimg.com/i/374AX.jpg",
+      "price": 9000
+    },
+    {
+      "id": "05",
+      "title": "Nissan Patrol",
+      "imageUrl": "https://funkyimg.com/i/3748P.jpg",
+      "price": 3000
+    },
+    {
+      "id": "06",
+      "title": "Hakosuka",
+      "imageUrl": "https://funkyimg.com/i/3748Q.jpg",
+      "price": 10000
+    },
+    {
+      "id": "07",
+      "title": "Nissan Silvia S14",
+      "imageUrl": "https://funkyimg.com/i/3748R.jpg",
+      "price": 7000
+    },
+    {
+      "id": "08",
+      "title": "Mitsubishi 3000 GT",
+      "imageUrl": "https://funkyimg.com/i/3748S.jpg",
+      "price": 4000
+    },
+    {
+      "id": "09",
+      "title": "Nissan 180sx",
+      "imageUrl": "https://funkyimg.com/i/3748T.jpg",
+      "price": 6000
+    },
+    {
+      "id": "10",
+      "title": "Nissan Silvia S12",
+      "imageUrl": "https://funkyimg.com/i/3748U.jpg",
+      "price": 5000
+    },
+    {
+      "id": "11",
+      "title": "Nissan Skyline 2000 GT-R Kenmeri",
+      "imageUrl": "https://funkyimg.com/i/3748V.jpg",
+      "price": 12000
+    },
+    {
+      "id": "12",
+      "title": "Datsun 260z",
+      "imageUrl": "https://funkyimg.com/i/3749b.jpg",
+      "price": 11000
+    },
+    {
+      "id": "13",
+      "title": "Mazda RX-7 FC",
+      "imageUrl": "https://funkyimg.com/i/3749d.jpg",
+      "price": 9000
+    },
+    {
+      "id": "14",
+      "title": "Mazda RX-7 FD",
+      "imageUrl": "https://funkyimg.com/i/3749e.jpg",
+      "price": 9000
+    },
+    {
+      "id": "15",
+      "title": "Nissan 300zx",
+      "imageUrl": "https://funkyimg.com/i/3749f.jpg",
+      "price": 7000
+    },
+    {
+      "id": "16",
+      "title": "Nissan Almera",
+      "imageUrl": "https://funkyimg.com/i/3749g.jpg",
+      "price": 2000
+    },
+    {
+      "id": "17",
+      "title": "Nissan Micra",
+      "imageUrl": "https://funkyimg.com/i/3749h.jpg",
+      "price": 1000
+    },
+    {
+      "id": "18",
+      "title": "Nissan Silvia S13",
+      "imageUrl": "https://funkyimg.com/i/3749i.jpg",
+      "price": 5000
+    },
+    {
+      "id": "19",
+      "title": "Nissan Skyline R32 GT-R",
+      "imageUrl": "https://funkyimg.com/i/3749j.jpg",
+      "price": 8000
+    },
+    {
+      "id": "20",
+      "title": "Nissan Silvia S15",
+      "imageUrl": "https://funkyimg.com/i/3749s.jpg",
+      "price": 8000
+    },
+    {
+      "id": "21",
+      "title": "Nissan Stagea",
+      "imageUrl": "https://funkyimg.com/i/3749t.jpg",
+      "price": 4000
+    },
+    {
+      "id": "22",
+      "title": "Nissan Skyline R33 GT-R",
+      "imageUrl": "https://funkyimg.com/i/3749y.jpg",
+      "price": 10000
+    },
+    {
+      "id": "23",
+      "title": "Nissan Skyline R34 GT-R",
+      "imageUrl": "https://funkyimg.com/i/3749z.jpg",
+      "price": 14000
+    }
+  ]
+}
